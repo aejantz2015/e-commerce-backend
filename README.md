@@ -19,7 +19,7 @@ Insomnia
   ## Usage
   Here is a link to the Github Repo: [https://github.com/aejantz2015/e-commerce-backend]
 
-  Here is a link to the walkthrough video: []
+  Here is a link to the walkthrough video: [https://drive.google.com/file/d/1HUCwSWl14GkpgPb-ir04GDk6JCQVgBUg/view]
 
   ![Screenshot](./assets/Screenshot.png)
   ![Screenshot](./assets/Screenshot1.png)
