@@ -15,9 +15,15 @@
     express 
     sequelize
     mysql2
-
+Insomnia
   ## Usage
-  
+  Here is a link to the Github Repo: [https://github.com/aejantz2015/e-commerce-backend]
+
+  Here is a link to the walkthrough video: []
+
+  ![Screenshot](./assets/Screenshot.png)
+  ![Screenshot](./assets/Screenshot1.png)
+  ![Screenshot](./assets/Screenshot2.png)
 
   ## License
   MIT License
