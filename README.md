@@ -21,9 +21,9 @@ Insomnia
 
   Here is a link to the walkthrough video: [https://drive.google.com/file/d/1HUCwSWl14GkpgPb-ir04GDk6JCQVgBUg/view]
 
-  ![Screenshot](./assets/Screenshot.png)
-  ![Screenshot](./assets/Screenshot1.png)
-  ![Screenshot](./assets/Screenshot2.png)
+  ![Screenshot](./Assets/Screenshot.png)
+  ![Screenshot](./Assets/Screenshot1.png)
+  ![Screenshot](./Assets/Screenshot2.png)
 
   ## License
   MIT License
